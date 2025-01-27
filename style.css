@@ -58,6 +58,10 @@ headline {
   text-transform: uppercase; 
 }
 
+ul li {
+  color: #0C51A7;
+}
+
 p {
   font-size: 16px;
   font-weight: normal;
@@ -71,11 +75,10 @@ subtitle {
   color: #333333;  
 }
 
-
 footer {
+  margin-top: 105px;
   color: #333333;
   text-align: center;
-  padding-bottom: 48px;
 }
 
 footer img {
